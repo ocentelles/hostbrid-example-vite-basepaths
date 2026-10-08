@@ -1,0 +1,3 @@
+Original Hostbrid educational fixture, MIT. Reuses the pinned React/Vite package manifests and Hostbrid leaf illustration from examples/ai-react (2026 Hostbrid). No third-party application source copied. Local routing demonstration, not React Router framework integration or proof of Hostbrid prefixed deployment support.
+
+The local browser.mjs is adapted from the Hostbrid-authored scripts/casilla-ipv4/navegador.mjs helper in hostbrid-web. This Hostbrid fixture and its local helper are supplied under the accompanying MIT license, copyright 2026 Hostbrid. No external repository helper import is required.
